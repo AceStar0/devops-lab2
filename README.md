@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # devops-lab2
 
 ## DEVOPS 
@@ -12,3 +13,6 @@ var add2 = function(number) {
 }
 
 ```
+=======
+# devops-lab2
+>>>>>>> Stashed changes

@@ -1,8 +1,14 @@
 # devops-lab2
 
-## Hello World
-cfgh
+## DEVOPS 
 
-------
-hyuyhuy
-------
+## Lab 2 - GitHub Basics
+
+This function is not working :
+
+```
+var add2 = function(number) {
+  return number + 2;
+}
+
+```

@@ -13,6 +13,3 @@ var add2 = function(number) {
 }
 
 ```
-=======
-# devops-lab2
->>>>>>> Stashed changes

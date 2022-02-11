@@ -12,4 +12,8 @@ var add2 = function(number) {
   return number + 2;
 }
 
+var add3 = function(number) {
+  return number + 3;
+}
+
 ```
